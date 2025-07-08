@@ -2,11 +2,10 @@
 package com.Gestion.Usuarios.dto;
 
 import java.util.Map;
-
 import io.swagger.v3.oas.annotations.media.Schema;
 
 @Schema(description = "Respuesta con enlaces HATEOAS")
-public class UsuarioHateoasResponse {
+public class UsuarioHATEOAS {
 
     @Schema(description = "ID del usuario")
     private Integer id;
