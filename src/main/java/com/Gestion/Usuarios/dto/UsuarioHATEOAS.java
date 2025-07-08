@@ -2,7 +2,6 @@
 package com.Gestion.Usuarios.dto;
 
 import java.util.Map;
-
 import io.swagger.v3.oas.annotations.media.Schema;
 
 @Schema(description = "Respuesta con enlaces HATEOAS")
